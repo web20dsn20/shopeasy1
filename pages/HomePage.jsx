@@ -33,7 +33,7 @@ const Home = () => {
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae asperiores sint ducimus perferendis eius ratione sunt. Delectus dolorem officia exercitationem fugiat eaque laborum natus? Rem, corrupti? Et, eaque consectetur.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae asperiores sint ducimus perferendis eius ratione sunt. Delectus dolorem officia exercitationem fugiat eaque laborum natus? Rem, corrupti? Et, eaque consectetur.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae asperiores sint ducimus perferendis eius ratione sunt. Delectus dolorem officia exercitationem fugiat eaque laborum natus? Rem, corrupti? Et, eaque consectetur.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusandae asperiores sint ducimus perferendis eius ratione sunt. Delectus dolorem officia exercitationem fugiat eaque laborum natus? Rem, corrupti? Et, eaque consectetur.</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia recusanaddededae asperiores sint ducimus perferendis eius ratione sunt. Delectus dolorem officia exercitationem fugiat eaque laborum natus? Rem, corrupti? Et, eaque consectetur.</p>
     </div>
   );
 }
